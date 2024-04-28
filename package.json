@@ -1,7 +1,7 @@
 {
-  "name": "chai-backend",
+  "name": "videotube-backend",
   "version": "1.0.0",
-  "description": "a backend at chai aur code channel - youtube",
+  "description": "a backend for videotube",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -9,10 +9,9 @@
   },
   "keywords": [
     "javascript",
-    "backend",
-    "chai"
+    "videotube"
   ],
-  "author": "Hitesh Choudhary",
+  "author": "Zeeshan Nawaz",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.0.1",
